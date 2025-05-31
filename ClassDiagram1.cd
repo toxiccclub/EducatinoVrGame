@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MouseCamLook" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\BrokenVector\LowPolyDungeon\Demo Scenes\MouseCamLook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAAAAEAAAAAIAAAAAAAEAAAAAQAQAAAAIA=</HashCode>
+      <FileName>Assets\BrokenVector\LowPolyDungeon\Demo Scenes\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenshotMaker" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\BrokenVector\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerINstruction" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAACAAAAAAAAgIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ControllerINstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cameraDemoCastle" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\FantasyCastleDemo\Scripts\cameraDemoCastle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimateHand" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAEA=</HashCode>
+      <FileName>Assets\Models\HandModels\Scripts\AnimateHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActiveTeleportation" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAAIAAAAAAAgAAAgAAAABAAAAQACAAIA=</HashCode>
+      <FileName>Assets\Scripts\ActiveTeleportation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookActivated" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAEACQAAABACAAAQAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BookActivated.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonKeypad" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonKeypad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellIndex" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CellIndex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterMoveHaighter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAAAAAAAAAgAAAAAAAAABAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\CharacterMoveHaighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeNextPrevious" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACACAAgAAAAIABAACAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CodeNextPrevious.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoinCollector" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAgAACAQEAAAAQAAQAIASAAAAIACQgABQAAIkoA=</HashCode>
+      <FileName>Assets\Scripts\CoinCollector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoinSpawnPoint" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CoinCollector2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoinCollector2" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAEAgAQDAQEAEAARAAQAIASABCAIACQgCDQIgKkoA=</HashCode>
+      <FileName>Assets\Scripts\CoinCollector2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoinValue" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CoinValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Create" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAKAIAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateCoin" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAIAIAAAAAAAAAAAAAAAACgAAA=</HashCode>
+      <FileName>Assets\Scripts\CreateCoin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrystallBomb" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAAAAgAACAAAAIAAAAAgAAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CrystallBomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoorUnlock" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DoorUnlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPAnimation" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACigAAABAAJAIQkAAgYABgIACAAAUAAAAIDIA=</HashCode>
+      <FileName>Assets\Scripts\DPAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPANimation2" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQMAAAAAgAAACAAAEIAAgAQAAAAgCAAAAAAAAAAaHgI=</HashCode>
+      <FileName>Assets\Scripts\DPANimation2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPanimation3" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQMABAQIigABCBAAFAQAkAQAAAAgAACAAAQAIAAIPoA=</HashCode>
+      <FileName>Assets\Scripts\DPanimation3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPCellHover" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAACAAAAACACAAAAAAAAAAAAAAAEQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DPCellHover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPCellTooltip" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DPCellTooltip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPCellTooltip1" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgUCAQAAAAAAAAAAAAAgQAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\DPCellTooltip1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPTableSelf" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQcACAAAACACCIAgAAgQCAQC0ABAABOCAMChAAAAEKE=</HashCode>
+      <FileName>Assets\Scripts\DPTableSelf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Instruction" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAIAAIAACAgAAAAAAAYABACAIAAAAACAQAEAA=</HashCode>
+      <FileName>Assets\Scripts\Instruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadingScreen" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCYnteractable" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAAAAAAACAAAYAQAgAYBJAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\NPCYnteractable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInteactUI" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAEAAAAgAAABAEAAAAAAQQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInteactUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInteractNPC" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInteractNPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerJump" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAgAAgAEAAAAAAAAIAAAAQAAAAAICAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerJump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerRun" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAEAAAAAAAACCAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerRun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PushButton" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAgAAACAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\PushButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneButtonHandler" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SceneButtonHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoader" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelfInstruction" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SelfInstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartCoinExplanation" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQMAIAACAAACAIAAAAIAAAAgAAAAAAKAAAIAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\StartCoinExplanation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeButton" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\TimeButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeRewind" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAACAAAAgEAAAEIAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TimeRewind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoController" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAEAAABAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\VideoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardAppear" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAFACQAAAAACAIAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WizardAppear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.AnchorVisuals" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAACAAgAAAAgAAAAAAAAGAIAAAAAAAAAAIJGA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\AnchorVisuals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.BezierCurve" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EFQAAAAAAABAoBiAAABAAIAIAAAAAAEIAAAAAgCBOkA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\BezierCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.BooleanToggleVisualsController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAASBAAAEAAAABAAAAAAAAAAAACBAKBCEA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\BooleanToggleVisualsController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.193" Collapsed="true" />
+  </Class>
+  <Class Name="Unity.VRTemplate.Callout" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAQKACEAAAAEAAAAAQgAAAABAAAAAAAAABEAYAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\Callout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.CalloutGazeController" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQABRBAAAAAEAAAAAAAAAAAEQoAACAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\CalloutGazeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.DestroyObject" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\DestroyObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.LaunchProjectile" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAABAAAIAAAAAAAEAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\LaunchProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.RayAttachModifier" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAACAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\RayAttachModifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.Rotator" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\Rotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.StepManager" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\StepManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.VideoPlayerRenderTexture" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAEAAAAAAABAgAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\VideoPlayerRenderTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.VideoTimeScrubControl" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAhAAAAKAIAACghANBAABAQAwAAAAAkAAIBAAACAA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\VideoTimeScrubControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.XRKnob" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FQAAAGAAACoAgmFAABGgBFEBAAQUgCEIAIACAAIASQA=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\XRKnob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unity.VRTemplate.XRPokeFollowAffordanceFill" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAQBEUABACABAAAAAAEAMhQAAIGAgABQwABAAAAAAEQ=</HashCode>
+      <FileName>Assets\VRTemplateAssets\Scripts\XRPokeFollowAffordanceFill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
